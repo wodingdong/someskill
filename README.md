@@ -1,2 +1,3 @@
 # someskill
-some skill record
+这里记录一些杂项常用的操作，作一个集中管理。
+
